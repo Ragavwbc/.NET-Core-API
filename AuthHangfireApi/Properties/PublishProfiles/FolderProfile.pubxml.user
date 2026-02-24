@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>H:\Release\WBC\AuthHangfireAPI</_PublishTargetUrl>
+    <History>True|2026-01-10T13:47:19.1958113Z||;True|2026-01-10T19:16:19.4956163+05:30||;True|2026-01-10T18:34:36.1474027+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,170 @@
+[
+  {
+    "ContainingType": "AcesJobController",
+    "Method": "StartAcesCron",
+    "RelativePath": "api/admin/aces/cron/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AcesJobController",
+    "Method": "StopAcesCron",
+    "RelativePath": "api/admin/aces/cron/stop",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AcesJobController",
+    "Method": "OpenLatest",
+    "RelativePath": "api/admin/aces/open/latest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.JobAdminController",
+    "Method": "PauseEmailJob",
+    "RelativePath": "api/admin/jobs/email/pause_10sec_email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.JobAdminController",
+    "Method": "ResumeEmailJob",
+    "RelativePath": "api/admin/jobs/email/resume_10sec_email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.JobAdminController",
+    "Method": "StartRecurringEmail",
+    "RelativePath": "api/admin/jobs/emails/recurring_10sec/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.JobAdminController",
+    "Method": "StopRecurringEmail",
+    "RelativePath": "api/admin/jobs/emails/recurring_10sec/stop",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.JobAdminController",
+    "Method": "SendEmail",
+    "RelativePath": "api/admin/jobs/emails/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AuthHangfireApi.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.TestController",
+    "Method": "AdminOnly",
+    "RelativePath": "api/Test/admin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.TestController",
+    "Method": "PolicyTest",
+    "RelativePath": "api/Test/policy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.TestController",
+    "Method": "Public",
+    "RelativePath": "api/Test/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.TestController",
+    "Method": "Secure",
+    "RelativePath": "api/Test/secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthHangfireApi.Controllers.TestController",
+    "Method": "UserOnly",
+    "RelativePath": "api/Test/user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

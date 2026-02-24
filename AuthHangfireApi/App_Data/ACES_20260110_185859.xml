@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ACES version="4.2">
+  <Header>
+    <Company>Automotive industry</Company>
+    <SenderName>msaharia@masterdatamigration.com</SenderName>
+    <TransferDate>2024-11-18</TransferDate>
+    <BrandAAIAID>HBGS</BrandAAIAID>
+    <DocumentTitle>Sample Aces File</DocumentTitle>
+    <SubmissionType>FULL</SubmissionType>
+  </Header>
+
+  <App action="A" id="1">
+    <BaseVehicle id="28007" />
+    <SubModel id="2002" />
+    <Qty>3</Qty>
+    <PartType id="1684" />
+    <Position id="22" />
+    <Part>1551237101</Part>
+  </App>
+
+  <Footer>
+    <RecordCount>25</RecordCount>
+  </Footer>
+</ACES>

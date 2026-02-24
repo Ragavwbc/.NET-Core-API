@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t+vzlQZRJEYr2pBfYmQfQ7hjle0YB2dsgmI3vqvcHCI=",
+  "Source": "AuthHangfireApi",
+  "BasePath": "_content/AuthHangfireApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

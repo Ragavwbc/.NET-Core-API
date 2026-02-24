@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\controllers\\acesjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:controllers\\acesjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\controllers\\jobadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:controllers\\jobadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\jobs\\acesfilejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:jobs\\acesfilejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\jobs\\emailcronjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:jobs\\emailcronjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\jobs\\samplejobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:jobs\\samplejobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\jobs\\jobcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:jobs\\jobcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\jobs\\testcronjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:jobs\\testcronjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\authentication\\jwtauthenticationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:authentication\\jwtauthenticationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\authentication\\hangfiredashboardauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:authentication\\hangfiredashboardauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\authentication\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:authentication\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|h:\\ragav\\dotnet\\authhangfire task\\authhangfireapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0AF2DF9-BA6D-42B2-BEED-3A657065F812}|AuthHangfireApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcesJobController.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\AcesJobController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AcesJobController.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\AcesJobController.cs",
+              "RelativeToolTip": "Controllers\\AcesJobController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T13:27:23.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcesFileJob.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\AcesFileJob.cs",
+              "RelativeDocumentMoniker": "Jobs\\AcesFileJob.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\AcesFileJob.cs",
+              "RelativeToolTip": "Jobs\\AcesFileJob.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T13:26:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobControl.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\JobControl.cs",
+              "RelativeDocumentMoniker": "Jobs\\JobControl.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\JobControl.cs",
+              "RelativeToolTip": "Jobs\\JobControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:24:57.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailCronJob.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\EmailCronJob.cs",
+              "RelativeDocumentMoniker": "Jobs\\EmailCronJob.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\EmailCronJob.cs",
+              "RelativeToolTip": "Jobs\\EmailCronJob.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:44:30.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobAdminController.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\JobAdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobAdminController.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\JobAdminController.cs",
+              "RelativeToolTip": "Controllers\\JobAdminController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:55:20.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestCronJobs.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\TestCronJobs.cs",
+              "RelativeDocumentMoniker": "Jobs\\TestCronJobs.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\TestCronJobs.cs",
+              "RelativeToolTip": "Jobs\\TestCronJobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:03:48.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Models\\EmailSettings.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:40:46.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleJobs.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\SampleJobs.cs",
+              "RelativeDocumentMoniker": "Jobs\\SampleJobs.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Jobs\\SampleJobs.cs",
+              "RelativeToolTip": "Jobs\\SampleJobs.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:13:04.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangfireDashboardAuthorization.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\HangfireDashboardAuthorization.cs",
+              "RelativeDocumentMoniker": "Authentication\\HangfireDashboardAuthorization.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\HangfireDashboardAuthorization.cs",
+              "RelativeToolTip": "Authentication\\HangfireDashboardAuthorization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:12:00.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALYUAAAAAAAAAAAowMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-10T06:54:01.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:50:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:47:38.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\Roles.cs",
+              "RelativeDocumentMoniker": "Authentication\\Roles.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\Roles.cs",
+              "RelativeToolTip": "Authentication\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:46:48.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtAuthenticationExtension.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\JwtAuthenticationExtension.cs",
+              "RelativeDocumentMoniker": "Authentication\\JwtAuthenticationExtension.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\JwtAuthenticationExtension.cs",
+              "RelativeToolTip": "Authentication\\JwtAuthenticationExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:24:06.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:16:04.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Authentication\\JwtSettings.cs",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Authentication\\JwtSettings.cs",
+              "RelativeToolTip": "Authentication\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:22:03.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T06:20:56.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "H:\\Ragav\\dotnet\\AuthHangfire Task\\AuthHangfireApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T06:14:32.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
