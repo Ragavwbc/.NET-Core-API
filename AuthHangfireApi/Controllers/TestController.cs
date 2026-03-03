@@ -30,5 +30,7 @@ namespace AuthHangfireApi.Controllers
         //[Authorize(Policy = "UserOrAdmin")]
         //[HttpGet("policy")]
         //public IActionResult PolicyTest() => Ok($"Hello {User.Identity!.Name}, you passed the policy");
+
+        //Hello 1
     }
 }
